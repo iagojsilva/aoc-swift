@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:aoc}",
+            "name": "Debug 2025-C01",
+            "target": "2025-C01",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug 2025-C01"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:aoc}",
+            "name": "Release 2025-C01",
+            "target": "2025-C01",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release 2025-C01"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:aoc}",
+            "name": "Debug 2025-C02",
+            "target": "2025-C02",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug 2025-C02"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:aoc}",
+            "name": "Release 2025-C02",
+            "target": "2025-C02",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release 2025-C02"
+        }
+    ]
+}
